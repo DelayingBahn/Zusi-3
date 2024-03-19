@@ -1,0 +1,44 @@
+Software License Agreement ZUSI 3
+
+As a licensee, you will receive Zusi exclusively with the following License agreement that defines what you can do with Zusi and how you can do it. Warranty limitations and claims for damages are regulated. Withinstallation and or usage of Zusi, you confirm that you have read and understood the license agreement and agree with it. An express, written or electronically by the user is not necessary to effectively agree this license. If you do not understand this License Agreement, or if you do not agree with any or all of its terms, you are not allowed to install, distribute or use this software for your own or any other purposes and you do not receive a license for this software.
+
+1. Subject matter of the contract
+
+The licence to Zusi will be granted as a limited, non-exclusive, non-transferable, simple license (with the prohibition of the granting of sublicenses); otherwise all rights to the software remain, also for the following updates, at the licensor, Mr. Carsten Hölscher. Regarding the Add Ons (locomotives, wagons, tracks etc.) and the documentation, the licensor have the right of use.
+
+2. Terms of usage
+
+The licensee receives with the complete and unconditional payment of the License a simple, non-exclusive and non-sublicensable right of Zusi with single user license and the associated documentation. The same applies to updates or add-ons for Zusi.
+The user will use the software as well as all the add-ons or the documentation exclusively for its own purposes when there is no other arrangement written down between him and the licensor. Interfaces and data formats may only be used in the format specified by the Licensor.
+The user will neither himself nor through others do any modifications or interventions to Zusi, not even to eliminate possible program errors. This does not apply if the licenser has made allowed to make any changes in exchange for reasonable compensation.
+The user will not transfer, sublicense, rent or lend the right or the software. He will not use it for demonstrations, for teaching, will not use it together with others or in an office community, when there is no other arrangement made with the licensor in a written way. 
+The single-user license entitles the user to install and use Zusi on one PC, a parallel use on more than one PC is not permitted. In particular, Zusi may not be reproduced, provided that this is not required for use. Permissible duplication is therefore only the installation of Zusi from the original data carrier to the hard disk of the PC and loading Zusi into the main memory.
+All rights, in particular patents, copyrights, trademark rights, know-how and other industrial property rights of. ZUSI, the documentation and updates are owned by the licensor. The user acquires no further rights than those expressly granted here. Furthermore, the Licensor is not obliged to provide support for questions, maintenance, installation of Zusi or documentation or to develop (free or paid) updates.
+
+3. Update
+
+The licensor is entitled, but not obliged to develop program extensions (upgrades) or program changes (updates). The Licensor may charge a fee for such updates. 
+
+If an update is purchased, the user is entitled to interchange the software with the previously delivered version. The other provisions of this license agreement shall also apply in this case.
+
+The user acknowledges that the delivery of an upgrade or update does not mean the receiving of a second license for Zusi.The user may therefore use the Upgrade or update not in addition to the original software, and also he is not allowed to give the older version to an other person.
+
+4. Exclusion and period of warranty
+
+The warranty period for material defects is 24 months from the softwares delivery (maybe download) to the customer. In all other cases the warranty is excluded. Guarantees will not be surrendered. Zusi will be added as a demo version for a test before.
+In particular, the licensor does not assume any warranty for the suitability or usability of Zusi or its documentation for any purpose, the correctness and accuracy, or the custom of the market.
+
+5. The following applies to the warranty in the event of material defects on the part of consumers: The licenser will remove defects of the software within the warranty period after a written notification and in case that the defects remain the normal use of ZUSI. Defects will be remedied at the choice of the Licensor by repair or replacement. 
+For the use of Zusi in the standard settings, the minimum system requirements on the respective software CD/DVD are indicated. For Add Ons that have been released until the CD/DVDs release date, these system requirements also apply. A guarantee for the use with system requirements that do not meet the specified prerequisites is not given.
+The rights of the user due to defects are excluded, when the user changes something without the licensors agreement unless the user can prove that the deficiencies are not due to the changes he has done. Defects in the software, which are due to faulty installation, faulty configuration of the licensee, are also not object of warranty such as defects in the Licensee's operating system or third-party products.
+
+6. Liability
+
+The liability of the licensor is limited to the amount that the user has paid to the licensor for the purchase of the program. Liability for slight negligence is excluded. Liability for gross negligence is excluded. Violation of secondary obligations is also excluded. Liability for Intent remains unaffected. Liability for personal injury and damage to health remains unaffected.
+
+7. Final provisions
+
+For the individual contract, these Software License Terms and Conditions shall apply as well as the following general Terms and Conditions of Business. Other terms and conditions of the customers shall not become part of the contract.
+Verbal ancillary agreements have not been made. All changes to the contract and supplements must be written down. Also the modification of these terms requires the written form.
+Should parts of the individual contract or of these general terms and conditions be ineffective or null and void, the remaining provisions hereof shall not become touched. The parties to the contract undertake to replace the ineffective or void parts by economically equivalent, legally binding provisions.
+The law of the Federal Republic of Germany applies exclusively. Exclusion of the provisions of private international law and of the UN Sales Convention.
