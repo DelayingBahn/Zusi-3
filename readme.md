@@ -9,8 +9,9 @@
 7. 下方有 “language”，改成 “SC”
 8. 点右下方“OK”完成
 ---
-作者：wangba
-
 汉化版本：0.1
 
-日期：2024年2月25日
+汉化日期：2024年2月25日
+
+---
+模拟火车维基:https://train.aperturegq.top/index.php?title=%E9%A6%96%E9%A1%B5
